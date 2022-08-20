@@ -1,4 +1,4 @@
-## Codepath Prewor Project, Hello from Sam!
+## Codepath Prework Project, Hello from Sam!
 
 ### Displays custom text and background color, user can change
 ### text color
